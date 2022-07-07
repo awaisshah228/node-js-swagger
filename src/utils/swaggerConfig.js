@@ -13,7 +13,7 @@
 			},
 		],
 	},
-	apis: ["../routes/*.js"],
+	apis: ["./routes/*.js"],
 };
 
 module.exports= options;
